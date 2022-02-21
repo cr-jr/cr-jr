@@ -44,8 +44,9 @@ an HTML document with the power of modern capability. All the work I do is geare
 + He/him preferred
 + Chronically asocial
 + Troublemaker
-+ Negipositive thinker
++ Negapositive thinker
 + Yells at clouds
++ Habitual fixer
 
 <!---
 cr-jr/cr-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
