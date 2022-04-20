@@ -41,7 +41,7 @@ an HTML document with the power of modern capability. All the work I do is geare
 
 ## Personal Notes
 
-+ He/him preferred
++ He/him
 + Chronically asocial
 + Troublemaker
 + Negapositive thinker
