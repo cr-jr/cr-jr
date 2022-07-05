@@ -1,5 +1,7 @@
 # CRJr 👨🏾‍💻
 
+> I'm in the process of migrating all of my code from GitHub to Codeberg, so I won't be on here much longer.
+
 ## Summary
 
 I'm a web developer whose focus is the web and web technologies. I want to bridge the simplicity of opening 
@@ -41,7 +43,6 @@ an HTML document with the power of modern capability. All the work I do is geare
 
 ## Personal Notes
 
-+ He/him
 + Chronically asocial
 + Troublemaker
 + Negapositive thinker
